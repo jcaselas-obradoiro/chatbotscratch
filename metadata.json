@@ -1,0 +1,6 @@
+{
+  "name": "ScratchBot - Asistente Socrático de Programación",
+  "description": "Asistente y tutor socrático para aprender Scratch en Primaria con captura de estado de proyecto, bloques interactivos y árbol de decisión pedagógico sin API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
